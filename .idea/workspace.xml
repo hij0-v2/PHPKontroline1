@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bee5db8d-d287-4330-98ef-e2635726f005" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1tfc98eg2cG3YqkkjWnAWGylp0f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../oop" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\kontroline\data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ComposerRunConfigurationType" factoryName="Composer Script">
+      <option name="pathToComposerJson" value="$PROJECT_DIR$/composer.json" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bee5db8d-d287-4330-98ef-e2635726f005" name="Default Changelist" comment="" />
+      <created>1623163429167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623163429167</updated>
+      <workItem from="1623163430279" duration="19780000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1245" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1623183399669">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1245" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1623183399669" />
+    <state x="1254" y="494" width="447" height="265" key="ComposerInitDialogKey" timestamp="1623166505181">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1254" y="494" width="447" height="265" key="ComposerInitDialogKey/0.0.1920.1080@0.0.1920.1080" timestamp="1623166505181" />
+    <state x="1220" y="302" key="FileChooserDialogImpl" timestamp="1623183130555">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1220" y="302" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1623183130555" />
+    <state x="993" y="433" key="NewPhpFileDialog" timestamp="1623183226034">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="993" y="433" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1623183226034" />
+    <state x="780" y="214" key="SettingsEditor" timestamp="1623183208092">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="780" y="214" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1623183208092" />
+    <state x="1140" y="281" width="672" height="678" key="search.everywhere.popup" timestamp="1623175173533">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1140" y="281" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1623175173533" />
+  </component>
+</project>
